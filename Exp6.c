@@ -99,7 +99,7 @@ void insertCustom()
             }
         }
     }
-    printf("\No such node present");
+    printf("\nNo such node present");
 }
 void deleteStart()
 {
